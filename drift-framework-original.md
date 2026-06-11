@@ -208,7 +208,3 @@ A complete DRIFT assessment should include:
 - **Make fixes actionable** — don't just identify problems; describe exactly what to change
 - **Weight reflects impact** — Template Drift is weighted at 0.5 because structural issues are less impactful to the reader than content/audience/governance issues
 - **Context matters** — a reference article has different governance expectations than a procedure article
-
----
-
-This framework can be applied to any knowledge base article to produce a consistent, repeatable quality assessment. Would you like me to save this as a note tile in your space, or would you like to use it to build an updated DRIFT assessment tile?
